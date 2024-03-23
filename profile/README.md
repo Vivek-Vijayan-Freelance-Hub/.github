@@ -1,20 +1,28 @@
 # Welcome to Vivek Vijayan Freelance Works!
 
 ## About Me
-Welcome to my freelancing venture! I'm a certified Python and SQL developer with a passion for turning ideas into reality. With years of experience handling multiple projects and providing top-notch training, I'm skilled in delivering high-quality solutions on time and at reasonable rates.
+Greetings! I'm a certified Full-Stack Web Developer with a specialization in Business Intelligence. With 8 years of comprehensive experience, I drive excellence across the software development lifecycle. Proficient in Python 3, Django 4, React JS, and Java 8, I craft robust web and desktop applications tailored to meet your freelancing needs.
+
+<a href="https://wa.me/message/4ZN5PXT4ANIPC1">
+<img src="https://www.freeiconspng.com/thumbs/logo-whatsapp-png/logo-whatsapp-png-pic-0.png" width=30></img>
+</a>
 
 ## Services Offered
-- Custom Software Development
-- Database Management
-- Training Programs
+- **Custom Software Development:** Crafting bespoke solutions tailored to your unique requirements.
+- **Database Management:** Designing dynamic database schemas to empower data-driven decision-making.
+- **Training Programs:** Offering online training on web development and programming to foster skill development.
 
-## Why Choose Me?
-- Certified Professional
-- On-time Delivery
-- Reasonable Pricing
-- Client Satisfaction Guaranteed
+## Skills Highlights
+- **Full-Stack Mastery:** Seamlessly blend front-end and back-end prowess to engineer durable solutions, underpinned by reusable, testable code.
+- **Tech Stack:** Skillfully navigate server-side languages and REST API development with Django and React. Git proficient for seamless version control.
+- **Business Insight:** Translate business needs into dynamic database schemas, empowering data-driven decision-making.
+- **Agile Integration:** Execute Agile CI/CD methodologies to swiftly integrate enhancements, ensuring client value delivery.
+- **Diverse Proficiency:** Beyond web dev, adept in IoT and SAP BPC, automating workflows with Python and Excel VBA.
+- **Certifications:** Certified Python and SQL Developer.
+- **OS Proficiency:** Comfortably navigate Linux, macOS, and Windows environments.
+- **Education & Mentorship:** Passionate about knowledge sharing, offering online training on web development and programming.
 
 ## Let's Connect!
-Have a project in mind or need expert assistance? Let's collaborate to bring your vision to life.
+If you seek a tech-savvy collaborator aligning tech with business goals, let's connect. Together, we'll transform concepts into impactful solutions for your freelancing projects! 👨💻🌟
 
-[Contact Me](mailto:vijayanv31@gmail.com) | [Portfolio](https://yourportfolio.com) | [LinkedIn](https://www.linkedin.com/in/vivekvijayan1010)
+[Contact Me](mailto:vijayanv31@gmail.com) | [Medium](https://vivekvijayan10.medium.com) | [LinkedIn](https://www.linkedin.com/in/vivekvijayan1010)
